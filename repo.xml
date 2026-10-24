@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugins>
+  <cachechk>20261024172424</cachechk>
+  <item>
+    <name><![CDATA[Kamzan NAS]]></name>
+    <internalName>KamzanNas</internalName>
+    <category>Kamzan</category>
+    <type>Backup/Sync</type>
+    <icon80>https://qnap.kamzan.online/KamzanNas_80.png</icon80>
+    <icon100>https://qnap.kamzan.online/KamzanNas_100.png</icon100>
+    <description><![CDATA[Sincronizza cartelle del NAS con cartelle di Kamzan Files, nei due versi o in uno solo, in tempo reale o a orari stabiliti. Serve un account Kamzan con l'estensione «Sincronizzazione con NAS» di Files attiva.]]></description>
+    <developer><![CDATA[Jinni Srl]]></developer>
+    <maintainer><![CDATA[Jinni Srl]]></maintainer>
+    <language><![CDATA[Italiano]]></language>
+    <publishedDate>2026/10/24</publishedDate>
+    <version>0.1.3</version>
+    <platform>
+      <platformID>TS-NASX86</platformID>
+      <location>https://qnap.kamzan.online/KamzanNas_0.1.3_x86_64.qpkg</location>
+    </platform>
+    <platform>
+      <platformID>TS-X41</platformID>
+      <location>https://qnap.kamzan.online/KamzanNas_0.1.3_arm-x41.qpkg</location>
+    </platform>
+    <platform>
+      <platformID>TS-X31P2</platformID>
+      <location>https://qnap.kamzan.online/KamzanNas_0.1.3_arm-x41.qpkg</location>
+    </platform>
+    <platform>
+      <platformID>TS-X31P3</platformID>
+      <location>https://qnap.kamzan.online/KamzanNas_0.1.3_arm-x41.qpkg</location>
+    </platform>
+    <platform>
+      <platformID>TS-X31X</platformID>
+      <location>https://qnap.kamzan.online/KamzanNas_0.1.3_arm-x41.qpkg</location>
+    </platform>
+    <platform>
+      <platformID>TS-X31XU</platformID>
+      <location>https://qnap.kamzan.online/KamzanNas_0.1.3_arm-x41.qpkg</location>
+    </platform>
+    <platform>
+      <platformID>TS-X35</platformID>
+      <location>https://qnap.kamzan.online/KamzanNas_0.1.3_arm-x41.qpkg</location>
+    </platform>
+    <platform>
+      <platformID>TS-531P</platformID>
+      <location>https://qnap.kamzan.online/KamzanNas_0.1.3_arm-x41.qpkg</location>
+    </platform>
+    <platform>
+      <platformID>QB-103</platformID>
+      <location>https://qnap.kamzan.online/KamzanNas_0.1.3_arm-x41.qpkg</location>
+    </platform>
+  </item>
+</plugins>
